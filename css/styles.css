@@ -1,0 +1,13 @@
+
+img {
+  border-radius: 8px
+}
+#snake-info {
+  display: none;
+}
+#octopus-info {
+  display: none;
+}
+#redpanda-info {
+  display: none;
+}
